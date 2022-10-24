@@ -1,0 +1,14 @@
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\bin\Debug\netstandard2.0\SampleApp.deps.json
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\bin\Debug\netstandard2.0\SampleApp.dll
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\bin\Debug\netstandard2.0\ref\SampleApp.dll
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\bin\Debug\netstandard2.0\SampleApp.pdb
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.AssemblyInfoInputs.cache
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.AssemblyInfo.cs
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.csproj.CoreCompileInputs.cache
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.dll
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\ref\SampleApp.dll
+C:\LEO\Research\EntryControl_Issue_In_Xamarin_Forms_5_0_0_2515\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.pdb
